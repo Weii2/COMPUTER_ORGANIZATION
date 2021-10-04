@@ -1,2 +1,3 @@
 # COMPUTER_ORGANIZATION
-COMPUTER_ORGANIZATION_HW
+Computer Organization HW practice
+single cycle riscv cpu/cache
